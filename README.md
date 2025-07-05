@@ -7,7 +7,8 @@
 ## 📸 Screenshots
 
 > Example:
-> ![image](https://github.com/user-attachments/assets/111bd469-b2a1-4ff4-a4c0-20576e50cfe7)
+> ![image](https://github.com/user-attachments/assets/1ad237ea-5412-4d2c-83cd-943a19d0ecf1)
+
 
 ---
 
