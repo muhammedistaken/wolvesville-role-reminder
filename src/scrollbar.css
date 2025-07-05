@@ -1,0 +1,19 @@
+::-webkit-scrollbar{
+    width: .5rem;
+}
+
+::-webkit-scrollbar-track{
+    @apply bg-[#1d2023];
+}
+
+::-webkit-scrollbar-thumb{
+    @apply rounded-lg bg-[#e1e5e8];
+}
+
+::-webkit-scrollbar-button{
+    @apply hidden;
+}
+
+::-webkit-scrollbar-corner{
+    @apply bg-[#ff0000] p-5;
+}
